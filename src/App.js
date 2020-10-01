@@ -3,6 +3,7 @@ import "./App.css";
 
 import Login from "./components/Login";
 import Signup from "./components/Signup";
+import ForgotPassword from './components/ForgotPass';
 
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 	
@@ -45,6 +46,7 @@ export default class App extends Component {
 								<Route exact path="/" component={Login} />
 								<Route path="/sign-in" component={Login} />
 								<Route path="/sign-up" component={Signup} />
+								<Route path='/forgot-password' component={ForgotPassword} />
 							</Switch>
 						</div>
 					</div>
