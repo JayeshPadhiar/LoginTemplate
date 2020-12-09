@@ -1,3 +1,28 @@
+# Login Template
+This login template is made with ReactJS which uses RESTful endpoint requests for faster OAuth operations.
+You can easily use and modity this template in your project for quick OAuth operations without developing from scratch.
+
+Here are some Screenshots of the template:
+
+### Login Window
+![Login Window](https://github.com/JayeshPadhiar/login-template/blob/master/readme_imgs/login.png)
+
+---
+
+### SignUp Window
+![Signup Window](https://github.com/JayeshPadhiar/login-template/blob/master/readme_imgs/signup.png)
+
+---
+
+### Forgot Password
+![Forgot Password](https://github.com/JayeshPadhiar/login-template/blob/master/readme_imgs/forgotpass.png)
+
+---
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
