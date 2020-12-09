@@ -52,7 +52,7 @@ export default class Login extends Component {
 				prev.alert.display = 'block';
 				return this.state;
 			})
-		}	
+		}
 	}
 
 	requestSignIn = (packet) => {
